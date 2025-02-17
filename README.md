@@ -1,5 +1,6 @@
-#📌 To-Do List 
-#Una aplicación de lista de tareas que se ejecuta en la terminal y guarda las tareas en un archivo JSON, permitiendo que se conserven incluso después de cerrar la aplicación.
+📌 To-Do List
+
+Una aplicación de lista de tareas que se ejecuta en la terminal y guarda las tareas en un archivo JSON, permitiendo que se conserven incluso después de cerrar la aplicación.
 
 ✨ Características
 ✅ Agregar, ver y eliminar tareas fácilmente desde la terminal.
