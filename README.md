@@ -16,7 +16,7 @@ Una aplicación de lista de tareas que se ejecuta en la terminal y guarda las ta
 
 1️⃣ Ejecuta el script:
 
-#python todo.py
+#python lista.py
 
 2️⃣ Sigue las opciones del menú para administrar tus tareas.
 
