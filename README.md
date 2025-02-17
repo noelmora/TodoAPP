@@ -13,4 +13,4 @@ Una aplicación de lista de tareas que se ejecuta en la terminal y guarda las ta
 2️⃣ Sigue las opciones del menú para administrar tus tareas.
 
 🖼️ Capturas de pantalla
-Añade aquí imágenes del funcionamiento de la aplicación
+
